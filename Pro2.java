@@ -28,6 +28,21 @@ public class Pro2 {
         int suma = numero1 + numero2;
         System.out.println("La suma de " + numero1 + " + " + numero2 + " es: " + suma);
         
-    
+        
+        System.out.println();
+        //RESTAAAAA
+        System.out.println("La Resta");
+        
+        System.out.print("INGRESE EL PRIMER NUMERO: ");
+
+        int numero3 = scanner.nextInt();
+        
+        System.out.print("INGRESE EL segundo NUMERO: ");
+        
+        int numero4 = scanner.nextInt();
+        
+        int resta = numero3 - numero4;
+        System.out.println("La resta de " + numero3 + " - " + numero4 + " es: " + resta);
+        
     }
 }
